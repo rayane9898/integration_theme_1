@@ -12,6 +12,7 @@
     @include('partials/client')
     @include('partials/contact')
     @include('partials/footer')
+    @include('partials/modal')
  
     
 @endsection
